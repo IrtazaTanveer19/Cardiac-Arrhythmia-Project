@@ -1,4 +1,4 @@
-# EE100-Project
+# EE100 Project
 A GitHub repository containing my final project for EE100 (Introduction to Engineering Laboratory)
 
 
