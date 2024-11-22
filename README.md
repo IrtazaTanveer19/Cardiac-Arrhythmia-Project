@@ -1,4 +1,3 @@
-# EE100 Project
 A GitHub repository containing my final project for EE100 (Introduction to Engineering Laboratory)
 
 The project involved utilising MATLAB to investigate an ECG recording of a patient's heart to detect cardiac arrhythmias.
